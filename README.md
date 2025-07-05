@@ -21,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav-Bobivnyk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-Bobivnyk&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav-Bo&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-Bo&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -31,31 +31,34 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-    <img src="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
   </picture>
 </p>
-
 
 ---
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viacheslav-Bobivnyk&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Viacheslav-Bo&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
 
 ---
 
 ### 📫 Contact me
 
-- Telegram: [@Menyanthes](https://t.me/Menyanthes)
+<p align="center">
+  <a href="https://t.me/Menyanthes" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Menyanthes-blue?logo=telegram&style=for-the-badge" alt="Telegram Contact" />
+  </a>
+</p>
 
 ---
 
 ### 👀 Visitor count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bobivnyk&style=flat-square&color=blue" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
 </p>
