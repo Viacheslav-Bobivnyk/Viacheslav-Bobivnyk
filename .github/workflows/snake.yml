@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # оновлення щодня
+    - cron: "0 0 * * *" # щоденне оновлення о півночі UTC
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Viacheslav
+          github_user_name: Viacheslav-Bobivnyk
           outputs: |
             ./github-contribution-grid-snake.svg
 
@@ -24,4 +24,3 @@ jobs:
         with:
           message: "generate snake animation"
           add: "github-contribution-grid-snake.svg"
-          
