@@ -21,24 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-### 🏅 Achievements & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viacheslav&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viacheslav&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Viacheslav&theme=dracula&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav-Bobivnyk&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viacheslav-Bobivnyk&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -46,8 +30,17 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Viacheslav/Viacheslav/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Viacheslav-Bobivnyk&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 ---
 
