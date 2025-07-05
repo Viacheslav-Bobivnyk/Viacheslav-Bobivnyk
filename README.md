@@ -31,11 +31,12 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
-    <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
   </picture>
 </p>
+
 
 ---
 
