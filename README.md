@@ -33,7 +33,7 @@
   <picture>
     <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
     <source srcset="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
-    <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+    <img src="https://raw.githubusercontent.com/Viacheslav-Bo/Viacheslav-Bo/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="opacity:0.7" />
   </picture>
 </p>
 
