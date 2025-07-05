@@ -3,6 +3,9 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Typing Fire" width="200" />
+</p>
 
 ---
 
