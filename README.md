@@ -1,5 +1,5 @@
 <h1 align="center">
-  Привіт, я Viacheslav! 👋
+  Hi, I`m Viacheslav! 👋
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG" />
 </h1>
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viacheslav&show_icons=true&theme=radical" height="150" />
@@ -27,7 +27,23 @@
 
 ---
 
-### 📈 My GitHub Activity Snake:
+### 🏅 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Viacheslav&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viacheslav&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Viacheslav&theme=dracula&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Viacheslav/Viacheslav/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -35,13 +51,13 @@
 
 ---
 
-### 📫 Contact me:
+### 📫 Contact me
 
 - Telegram: [@Menyanthes](https://t.me/Menyanthes)
 
 ---
 
-### 👀 Visitor count:
+### 👀 Visitor count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viacheslav&style=flat-square&color=blue" alt="Visitor count" />
