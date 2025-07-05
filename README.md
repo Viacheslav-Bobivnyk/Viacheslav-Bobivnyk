@@ -3,10 +3,6 @@
   Hi, I'm Viacheslav! 👋
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer+in+progress...;JavaScript%2C+React%2C+Node.js;Love+learning+and+building+cool+stuff" alt="Typing SVG"/> 
-  <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Running code" width="100%" />
-</p>
-
 </h1>
 
 ---
@@ -68,4 +64,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Viacheslav-Bo&style=flat-square&color=blue" alt="Visitor count" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Running code" width="200" />
 </p>
