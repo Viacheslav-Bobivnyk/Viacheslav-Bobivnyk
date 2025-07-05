@@ -17,9 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
 </p>
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
+<p align="right" style="display: flex; align-items: end; gap: 10px;">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Typing Fire" width="80" />
-  <span style="font-size: 1.2em; font-weight: 600;">I'm on fire coding this! 🔥💻</span>
+  
 </p>
 
 ---
