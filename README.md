@@ -30,8 +30,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Viacheslav-Bobivnyk/Viacheslav-Bobivnyk/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
 </p>
+
 
 ---
 
